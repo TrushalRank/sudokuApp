@@ -1,0 +1,8 @@
+{
+  "name": "sudokuApp",
+  "displayName": "sudokuApp",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1930419688844688~4455379660",
+    "ios_app_id": "ca-app-pub-8606036916096672~9266667304"
+  }
+}
