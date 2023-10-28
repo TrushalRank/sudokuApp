@@ -1,0 +1,28 @@
+export const Images = {
+  /* =========== Splash Screen ============= */
+
+  splashScreenImage: require('../../assets/images/splashScreenImage.png'),
+  backgroundImage: require('../../assets/images/backgroundImage.png'),
+  Standard_Sudoku: require('../../assets/images/Standard_Sudoku.png'),
+  X_Sudoku: require('../../assets/images/X_Sudoku.png'),
+  Color_Sudoku: require('../../assets/images/Color_Sudoku.png'),
+  Percent_Sudoku: require('../../assets/images/Percent_Sudoku.png'),
+  Hyper_Sudoku: require('../../assets/images/Hyper_Sudoku.png'),
+  SudokuLogo: require('../../assets/images/SudokuLogo.png'),
+  settingsLogo: require('../../assets/images/settingsLogo.png'),
+  back_arrow: require('../../assets/images/back_arrow.png'),
+  rateArrow: require('../../assets/images/rateArrow.png'),
+  shareArrow: require('../../assets/images/shareArrow.png'),
+  PrivacyPolicyArrow: require('../../assets/images/PrivacyPolicyArrow.png'),
+  btn_prev: require('../../assets/images/btn_prev.png'),
+  btn_next: require('../../assets/images/btn_next.png'),
+  NewGameBtn: require('../../assets/images/NewGameBtn.png'),
+  RefreshGameBtn: require('../../assets/images/RefreshGameBtn.png'),
+  hintGameBtn: require('../../assets/images/hintGameBtn.png'),
+  EraseGameBtn: require('../../assets/images/EraseGameBtn.png'),
+  SaveGameBtn: require('../../assets/images/SaveGameBtn.png'),
+  hintbg: require('../../assets/images/hintbg.png'),
+  closeIcon: require('../../assets/images/closeIcon.png'),
+  gameOverBg: require('../../assets/images/gameOverBg.png'),
+  trofiImg: require('../../assets/images/trofiImg.png'),
+};
