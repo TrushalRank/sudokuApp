@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/.otf",
+      "sha1": "b9a1ad08b8f1724544ae075d66c98b7fb507b80d"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.otf",
+      "sha1": "892e9a770a5340e46c9c7d9f25fa2699d9275923"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.otf",
+      "sha1": "4786a0feb4c853189782709a5ac5b5dfb696942b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.otf",
+      "sha1": "ce2ccd0b91ffb1f8c894b6d60f21443e0769217c"
+    },
+    {
+      "path": "src/assets/fonts/Inter-V.ttf",
+      "sha1": "03f5c0ff412bc0aac7ef2c1e19edcbdd9b06a609"
+    },
+    {
+      "path": "src/assets/fonts/SIL Open Font License.txt",
+      "sha1": "96a287fb359a9d984db7928f756087ffb4e03218"
+    }
+  ]
+}
